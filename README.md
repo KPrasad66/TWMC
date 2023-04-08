@@ -4,8 +4,9 @@ TWMC T and A
 This is *italics*.
 
 This is **Bold**.
-
-~The world is flat.
+```ruby
+This text is 'Highlighted'. 
+```
 
 I need to highlight these ~very important words~.
 
