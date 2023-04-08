@@ -7,7 +7,7 @@ This is **Bold**.
 
 ~~The world is flat.~~
 
-I need to highlight these ==very important words==.
+I need to highlight these ~very important words~.
 
 | Syntax | Description |
 | row 1 | column 1|
