@@ -1,10 +1,13 @@
 # TWMC
 TWMC T and A
+
 This is *italics*.
 
 This is **Bold**.
 
-This is ==Highlighted Text==.
+~~The world is flat.~~
+
+I need to highlight these ==very important words==.
 
 | Syntax | Description |
 | row 1 | column 1|
