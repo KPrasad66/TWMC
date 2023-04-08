@@ -5,7 +5,7 @@ This is *italics*.
 
 This is **Bold**.
 
-~~The world is flat.~~
+~The world is flat.
 
 I need to highlight these ~very important words~.
 
