@@ -1,13 +1,12 @@
-# A STEP TOWARDS GREENER FUTURE
-## SHILPA CO-OP HSG SOCIETY ROOFTOP SOLAR PROJECT
+# A STEP TOWARDS GREENER FUTURE - *SHILPA CO-OP HSG SOCIETY ROOFTOP SOLAR PROJECT*
 
-#### Introduction
+## Introduction
 As an initiative taken by the MC of Shilpa Co-Op. Hsg. Society, we are thinking of installing our own On-Grid Rooftop Solar System. 
 This article aims to give a clear picture of following points to the society members:
 
-**a)	What is On-Grid Rooftop Solar Photovoltaic (PV) System?**
+**1. What is On-Grid Rooftop Solar Photovoltaic (PV) System?**
 
-**b)	Why think of our own Rooftop Solar PV System?**
+**2.	Why think of our own Rooftop Solar PV System?**
 
 **c)	The Power Requirements of the Society** 
 
@@ -24,9 +23,9 @@ It is a set of electricity-generating solar panels mounted on the shadow-free sp
 the sun's light energy and converts it into electrical energy. The generated electrical energy, which is Direct Current (DC), is 
 converted to alternating current (AC) by an inverter and is then supplied back to the power grid (in our case MSEB) through a net meter. 
 (as shown in fig. 1)
-
+ 
 ![on-grid-solar-roof-top-plant-500x500](https://user-images.githubusercontent.com/130212523/230752679-047530c6-f3b7-4521-8423-d4cbe5a95b14.jpg)
-figure 1
+**Figure 1**
 
 ***b)	Why think of our own On-Grid Rooftop solar PV system?*** 
 
@@ -48,9 +47,9 @@ per meter and the MSEB sanctioned load is given in table 1.
 |    160260520455	    |       8.1 KW	      |                  7590	               |      6.0      |
 |    160260520455	    |       8.0 KW	      |                  3016	               |      2.3      |
 |    160260520455	    |       3.8 KW	      |                  2626	               |      2.0      |
-|                     |                     |           *Total Wattage*            |     50.0      | 
+|    *Total Wattage*  |                     |                                      |     50.0      | 
 
-table 1
+**Table 1**
 
 
 
@@ -65,6 +64,7 @@ free space. MSEB approves Rooftop Solar PV Systems of capacity only up to the sa
 We have invited the vendors to give project presentation to the MC members. The presentation will include, the basics of In-Grid Solar PV System,
 how it works in collaboration with MSEB, the installation specifics, the benefits and most importantly the expected Return On Investment.
 
+[Click here](https://www.markdownguide.org/cheat-sheet/#basic-syntax)
 
 ***f)	Conclusion***
 
