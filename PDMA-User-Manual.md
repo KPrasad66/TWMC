@@ -211,7 +211,26 @@ port and Sample Lure port are caped firmly; remove the batteries and store separ
 ![consumables](https://user-images.githubusercontent.com/130212523/231472595-bb50bfc4-5c19-490d-a44a-88e4e08732fc.png)
 
 ### APPENDIX C - CERTIFICATE OF WARRANTY
+![RE Stamp](https://user-images.githubusercontent.com/130212523/231708177-3f7647c8-d949-4eee-a832-698921aee06f.JPG)
 
+
+|**Specification**|*:*|*Value*|
+|----------------|---|:-----:|
+|Measuring Range|:|	0 – 3 gm/cm3|
+|Measuring Accuracy|:| 1.7e-6 gm/cm3|
+<sub>(*Accuracy up to* ***1.7 e-7 gm/cm3***  *&*   ***1.7 e-8 gm/cm3***  *is available with advanced models)*
+|Enclosure|:|	SS 316 Hand Held|
+|Power Supply|:|Li-ion Rechargeable Battery|
+|Measuring Cylinder|:|Diameter:  5 mm;  Height: 80 mm;  MOC: SS 316L|
+|Working Principle|:|Media Column Pressure (50 mm)|
+|Display|:|	2 Row 16 Column LCD|
+|Battery Charging|:|Internal Battery Charger with detachable cable for charging|
+|Sample Insertion|:|Manual with Syringe|
+|Compensation|:|Automatic compensation for ambient Pressure, Temperature and Level ( with 3 Axis Sensor)|
+|Connectivity|:|Serial output (RS 232 wired) *(optional)*|
+|Memory|:|Built-in for 1000 Data Points *(optional)*|
+|Media Compatibility|:|Any Liquid compatible with SS-316L|
+  
 This product is covered under warranty, provided by our company, for a period of One (1) year form the date of purchase,
 against any manufacturing defects. 
 Any defective parts and/or functions, will be repaired and/or replaced at no charge during the warranty period.
@@ -220,6 +239,9 @@ by the customer.
 However, any defects / faults caused by improper use, user carelessness, inadequate maintenance, or natural disaster,
 will not be covered under the warranty. 
 
+    ![RE Stamp](https://user-images.githubusercontent.com/130212523/231707829-3a80993c-f9e3-4a8a-9c93-0647f4f82233.JPG)
+
+    
                          Company Seal
 <br>
 
